@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Loja_do_Manuel.Controllers.EmpacotamentoController",
+    "Method": "EmpacotarPedidos",
+    "RelativePath": "api/Empacotamento/empacotar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Loja_do_Manuel.Inputs.EmpacotamentoInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
